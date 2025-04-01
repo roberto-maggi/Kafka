@@ -1,0 +1,41 @@
+
+services:
+
+  jobmanager :
+    image: flink:latest
+    container_name: jobmanager
+    hostname: jobmanager
+    command: ["jobmanager"]
+    env_file:
+      - .env.flink
+    ports:
+      - "8089:8081"  # interfaccia web del master
+    networks:
+      - net-corso-apache
+
+  taskmanager-1:
+    image: flink:latest
+    container_name: taskmanager-1
+    hostname: taskmanager-1
+    command: ["taskmanager"]
+    env_file:
+      - .env.flink
+    networks:
+      - net-corso-apache
+
+  taskmanager-2:
+    image: flink:latest
+    container_name: taskmanager-2
+    command: ["taskmanager"]
+    hostname: taskmanager-2
+    env_file:
+      - .env.flink
+    networks:
+      - net-corso-apache
+
+networks:
+  net-corso-apache:
+    # name: net-corso-apache  # stesso nome esplicito
+    driver: bridge
+
+    

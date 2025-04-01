@@ -1,0 +1,186 @@
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.exe.config
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.exe
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.pdb
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.dll
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Buffers.dll
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Memory.dll
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Numerics.Vectors.dll
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Channels.dll
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.pdb
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.xml
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Buffers.xml
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Memory.xml
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Numerics.Vectors.xml
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Channels.xml
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csprojAssemblyReference.cache
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerHelloWorld.resources
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.FrmMain.resources
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Properties.Resources.resources
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.GenerateResource.cache
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.CoreCompileInputs.cache
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.CopyComplete
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.exe
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.pdb
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerWorkQueues.resources
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerPubSub.resources
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerRouting.resources
+D:\Corsi\Slides\Architetture\DDD\DotNet\Esercizi.Corso\MSG.99.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerTopic.resources
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.exe.config
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.exe
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.pdb
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.dll
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Buffers.dll
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Memory.dll
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Numerics.Vectors.dll
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Channels.dll
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.pdb
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.xml
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Buffers.xml
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Memory.xml
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Numerics.Vectors.xml
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Channels.xml
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csprojAssemblyReference.cache
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerPubSub.resources
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerTopic.resources
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerRouting.resources
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerWorkQueues.resources
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerHelloWorld.resources
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.FrmMain.resources
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Properties.Resources.resources
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.GenerateResource.cache
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.CoreCompileInputs.cache
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.CopyComplete
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.exe
+D:\Corsi\Slides\Products\Docker\Slides\Esercizi.Avanzati\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.pdb
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.exe.config
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.exe
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.pdb
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.dll
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Buffers.dll
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Memory.dll
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Numerics.Vectors.dll
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Channels.dll
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.pdb
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.xml
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Buffers.xml
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Memory.xml
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Numerics.Vectors.xml
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Channels.xml
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csprojAssemblyReference.cache
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerPubSub.resources
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerTopic.resources
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerRouting.resources
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerWorkQueues.resources
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerHelloWorld.resources
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.FrmMain.resources
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Properties.Resources.resources
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.GenerateResource.cache
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.CoreCompileInputs.cache
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.CopyComplete
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.exe
+D:\Corsi\Slides\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.pdb
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.exe.config
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.exe
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.pdb
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.dll
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Buffers.dll
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Memory.dll
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Numerics.Vectors.dll
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Channels.dll
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.pdb
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.xml
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Buffers.xml
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Memory.xml
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Numerics.Vectors.xml
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Channels.xml
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.AssemblyReference.cache
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerPubSub.resources
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerTopic.resources
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerRouting.resources
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerWorkQueues.resources
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerHelloWorld.resources
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.FrmMain.resources
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Properties.Resources.resources
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.GenerateResource.cache
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.CoreCompileInputs.cache
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQ.C528CBC7.Up2Date
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.exe
+D:\Corsi\Library\Slides\Da Lavorare\Products\Apache Kafka\Esercizi\01.RabbitNew\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.pdb
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.exe.config
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.exe
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.pdb
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.dll
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Buffers.dll
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Memory.dll
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Numerics.Vectors.dll
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Channels.dll
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.pdb
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.xml
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Buffers.xml
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Memory.xml
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Numerics.Vectors.xml
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Channels.xml
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.AssemblyReference.cache
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerPubSub.resources
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerTopic.resources
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerRouting.resources
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerWorkQueues.resources
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerHelloWorld.resources
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.FrmMain.resources
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Properties.Resources.resources
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.GenerateResource.cache
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.CoreCompileInputs.cache
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQ.C528CBC7.Up2Date
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.exe
+D:\Corsi\Library\Code\Products\Kafka\esercizi\old\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.pdb
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.exe.config
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.exe
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.pdb
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.dll
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Buffers.dll
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Memory.dll
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Numerics.Vectors.dll
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Channels.dll
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.pdb
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.xml
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Buffers.xml
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Memory.xml
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Numerics.Vectors.xml
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Channels.xml
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.AssemblyReference.cache
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerPubSub.resources
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerTopic.resources
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerRouting.resources
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerWorkQueues.resources
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Forms.HelloWorld.FrmProducerHelloWorld.resources
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.FrmMain.resources
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.Properties.Resources.resources
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.GenerateResource.cache
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csproj.CoreCompileInputs.cache
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQ.C528CBC7.Up2Date
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.exe
+D:\Corsi\Library\Code\Products\Kafka\esercizi\tests\rabbit\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.pdb

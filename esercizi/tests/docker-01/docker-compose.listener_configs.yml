@@ -1,0 +1,104 @@
+---
+version: '3'
+services:
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.2.1
+    hostname: zookeeper
+    container_name: zookeeper
+    healthcheck:
+      test: echo srvr | nc zookeeper 2181 || exit 1
+      interval: 10s
+      timeout: 6s
+      retries: 20      
+    ports:
+      - "2181:2181"
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+    networks:
+      - net-kafka
+
+  broker01:
+    image: confluentinc/cp-kafka:7.2.1
+    hostname: broker01
+    container_name: broker01
+    depends_on:
+      - zookeeper
+    ports:
+      - "8091:8091"
+      #- "29091:29091"
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: 'zookeeper:2181'
+      #KAFKA_CONFLUENT_METADATA_SERVER_LISTENERS: http://0.0.0.0:8091
+      #KAFKA_CONFLUENT_METADATA_SERVER_ADVERTISED_LISTENERS: http://broker01:8081
+      KAFKA_LISTENERS: LISTENER_INT://broker01:29091, LISTENER_EXT://localhost:8091
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: LISTENER_INT:PLAINTEXT,LISTENER_EXT:PLAINTEXT
+      KAFKA_ADVERTISED_LISTENERS: LISTENER_INT://broker01:29091,LISTENER_EXT://localhost:8091
+      KAFKA_INTER_BROKER_LISTENER_NAME: LISTENER_INT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+      KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
+      KAFKA_JMX_PORT: 9101
+      KAFKA_JMX_HOSTNAME: localhost
+    networks:
+      - net-kafka
+
+  broker02:
+    image: confluentinc/cp-kafka:7.2.1
+    hostname: broker02
+    container_name: broker02
+    depends_on:
+      - zookeeper
+    ports:
+      - "8092:8092"
+      #- "29092:29092"
+    environment:
+      KAFKA_BROKER_ID: 2
+      KAFKA_ZOOKEEPER_CONNECT: 'zookeeper:2181'
+      #KAFKA_CONFLUENT_METADATA_SERVER_LISTENERS: http://0.0.0.0:8092
+      #KAFKA_CONFLUENT_METADATA_SERVER_ADVERTISED_LISTENERS: http://broker02:8092
+      KAFKA_LISTENERS: LISTENER_INT://broker02:29092, LISTENER_EXT://localhost:8092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: LISTENER_INT:PLAINTEXT,LISTENER_EXT:PLAINTEXT
+      KAFKA_ADVERTISED_LISTENERS: LISTENER_INT://broker02:29092,LISTENER_EXT://localhost:8092
+      KAFKA_INTER_BROKER_LISTENER_NAME: LISTENER_INT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+      KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
+      KAFKA_JMX_PORT: 9101
+      KAFKA_JMX_HOSTNAME: localhost
+    networks:
+      - net-kafka
+
+  kafka-ui:
+    image: quay.io/cloudhut/kowl:master
+    container_name: kafka-ui
+    ports:
+      - 8180:8080
+    depends_on:
+      - broker01
+      - broker02
+    environment:
+      KAFKA_BROKERS: broker01:29091  
+    networks:
+      - net-kafka
+
+  zoonavigator:
+    image: elkozmon/zoonavigator:latest
+    hostname: zoonavigator
+    container_name: zoonavigator
+    depends_on:
+      - zookeeper
+    ports:
+      - "9000:9000"
+    environment:
+      HTTP_PORT: 9000  
+    networks:
+      - net-kafka   
+    
+
+networks:
+  net-kafka:
+    driver: bridge

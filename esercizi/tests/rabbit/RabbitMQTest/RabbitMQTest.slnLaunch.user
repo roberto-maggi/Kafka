@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "RabbitMQTest\\RabbitMQTest.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RabbitMQTestClients\\RabbitMQTestClients.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

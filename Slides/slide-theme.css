@@ -1,0 +1,105 @@
+/* @theme slide-theme */
+
+:root {
+    background-color: white;
+    color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 24px;
+    font-family: 'Calibri';
+}
+
+
+/* header, */
+footer {
+    display: flex;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    height: 30px;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+}
+
+/*
+header {
+    top: 0px;
+    font-size: 22px;
+    font-weight: bold;    
+}
+    */
+
+footer {
+    bottom: 0px;
+    padding-top: 5px;
+    font-size: 22px;
+    font-weight: bold;
+    justify-content: center;
+}
+
+/*
+header img {
+    width: 36px;
+    height: 36px;
+    margin-right: 10px;    
+}
+*/
+
+/*
+.h1::before{
+    content:url('./Images/icona_titolo_white.png');
+    width: 36px;
+    height: 36px;
+}
+*/
+
+h1 {
+    background: url('./Images/icona_titolo_white.png') no-repeat;
+    background-size: 32px 32px;
+    background-position: left 10px center;
+
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 40px;
+
+    margin: 0px;
+
+    padding: 5px;
+    padding-left: 60px;
+    
+    background-color: blue;
+    color: white;
+
+    font-size: 26px;
+    font-family: 'Poppins SemiBold';
+}
+
+
+pre {
+    background-color: #282c34;
+    color: #abb2bf;
+    border-radius: 8px;
+    padding: 15px;
+}
+
+/* Evidenziazione linguaggi specifici */
+pre[class*="language-shell"] {
+    color: red;
+}
+
+/* Evidenziazione linguaggi specifici */
+pre[class*="language-python"] {
+    color: green;
+}
+
+/* Stile per inline code */
+code {
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-family: 'Fira Code', monospace;
+}
